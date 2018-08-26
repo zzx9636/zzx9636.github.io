@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Zixu Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student in Robotics at University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "zixu at umich dot edu"
+  email            : "zzx9636@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zzx9636"
+  github           : "github.com/zzx9636"
   google_plus      :
   keybase          :
   instagram        :
