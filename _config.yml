@@ -78,9 +78,8 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "张子煦" 
-  name             : "Zhang, Zixu"
+author: 
+  name             : "Zixu Zhang"
   avatar           : "IMG_2116.jpg"
   bio              : "Graduate Student in Robotics at University of Michigan"
   location         : "Ann Arbor, MI"
@@ -178,10 +177,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
