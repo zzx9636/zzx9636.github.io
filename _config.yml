@@ -79,7 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "张子煦\nZhang, Zixu"
+  name             : "张子煦
+  
+                    Zhang, Zixu"
   avatar           : "IMG_2116.jpg"
   bio              : "Graduate Student in Robotics at University of Michigan"
   location         : "Ann Arbor, MI"
