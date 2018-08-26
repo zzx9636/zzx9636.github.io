@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zixu Zhang"
 title_separator          : "-"
-name                     : &name "Zixu Zhang"
+name                     : &name "Zhang, Zixu\张子煦"
 description              : &description "Graduate Student in Robotics at University of Michigan"
 url                      : https://zzx9636.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -177,10 +177,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
