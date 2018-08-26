@@ -15,6 +15,6 @@ A. M. Hamed, A. Pagan-Vazquez, D. Khovalyg, **Z. Zhang**, and L. P. Chamorro, â€
 X. Deng, **Z. Zhang**, A. Sintov, J. Huang, and T. Bretl, "Feature-constrained Active Visual SLAM for Mobile Robot Navigation," *in IEEE International Conference on Robotics and Automation (ICRA)*, Brisbance, Australia, May 2018.
 [[Video](https://www.youtube.com/watch?v=g87kNEiEKZk)] 
 
-You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=J1ub1esAAAAJ&hl=en}">my Google Scholar profile</a>.</u>
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=J1ub1esAAAAJ&hl=en) profile.
 
 
