@@ -31,7 +31,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" #, "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,12 +80,12 @@ analytics:
 # Site Author
 author:
   name             : "Zixu Zhang"
-  avatar           : "profile.png"
+  avatar           : "IMG_2116.jpg"
   bio              : "Graduate Student in Robotics at University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "zzx9636@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=J1ub1esAAAAJ&hl=en"
+  email            : "zixu@umich.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/zzx9636"
+  github           : "zzx9636"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zixu-zhang-038b8089/"
+  orcid            : #"http://orcid.org/0000-0002-0028-9321"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
