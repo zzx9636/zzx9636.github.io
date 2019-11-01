@@ -4,8 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
-I am actively seeking GSI position at University of Michigan to support my graduate study. I have a lot of experience in serving large classes (300+ enrollment) and tutoring in various topics (undergraduate mechanical engineering classes, introductory control classes and introductory robotics classes).
+## Fall 2019
+Graduate Student Instructor, ROB 535: Self Driving Cars: Perception and Control
 
 ## Fall 2015 - Spring 2018
 Course Assistant, [*TAM 251*: Introductory Solid Mechanics](https://courses.engr.illinois.edu/tam251/index.html), University of Illinois at Urbana-Champaign
