@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zixu Zhang"
 title_separator          : "-"
 name                     : &name "Zixu Zhang"
-description              : &description "Graduate Student in Robotics at University of Michigan"
+description              : &description "PhD Student in Electrical Engineering at Princeton University"
 url                      : https://zzx9636.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zzx9636/zzx9636.github.io"
@@ -85,7 +85,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=J1ub1esAAAAJ&hl=en"
-  email            : "zixu@umich.edu"
+  email            : "zixuz@princeton.edu"
   uri              :
   bitbucket        :
   codepen          :
