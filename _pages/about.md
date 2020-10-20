@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zixu Zhang (pronunciation: *tzu-hsu chang*) and **张子煦** in Chinese. Many people also call me Nick. I am an upcomming PhD student at Princeton University. My research interest lies in mobile robot's perception, state estimation and interaction with real-world.
+My name is Zixu Zhang (pronunciation: *tzu-hsu chang*) and **张子煦** in Chinese. I am a first-year PhD student at Princeton University. My research interest lies in mobile robot's perception, state estimation and interaction with real-world.
 
 Recently, I have finished my Master from *Robotics Institute, University of Michigan*, where I worked with [Prof. Matthew Johnson-Roberson](https://droplab.engin.umich.edu/matthew-johnson-roberson) at [UM Ford Center for Autonomous Vehicles](https://fcav.engin.umich.edu/). 
 
