@@ -82,7 +82,7 @@ author:
   name             : "Zixu (Nick) Zhang"
   avatar           : "IMG_2116.jpg"
   bio              : "PhD Student at Princeton University"
-  location         : "Ann Arbor, MI"
+  location         : "Princeton, NJ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=J1ub1esAAAAJ&hl=en"
   email            : "zixuz@princeton.edu"
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
